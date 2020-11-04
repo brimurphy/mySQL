@@ -1,0 +1,6 @@
+Whistler    Emma    bird    \N  2007-12-09  \N
+Fluffy    Harold      cat     m       2010-03-17      \N
+Claws    Aoibhinn    dog     f       2019-12-20      \N
+Buffy    Keith       bat     f       2020-05-09      \N
+Bowser    Andrew      dog     m       2000-03-24      2015-08-21
+Jules    Shane       dog     m       2005-09-16      2016-02-04
